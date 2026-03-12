@@ -1,0 +1,234 @@
+[
+  {
+    "id": "task_1",
+    "title": "Tactical Masterclass #1",
+    "description": "Master the fundamentals of team formation and spatial awareness on the pitch.",
+    "steps": [
+      {
+        "id": "s1_1",
+        "instruction": "Analyze the opponent's 4-3-3 formation for gaps.",
+        "image": "sportscourt"
+      },
+      {
+        "id": "s1_2",
+        "instruction": "Identify the weak link in the defensive line.",
+        "image": "shield.lefthalf.filled"
+      },
+      {
+        "id": "s1_3",
+        "instruction": "Exploit the half-spaces between fullbacks and center-backs.",
+        "image": "arrow.up.and.line.horizontal.and.arrow.down"
+      },
+      {
+        "id": "s1_4",
+        "instruction": "Deliver the final killer pass into the box.",
+        "image": "target"
+      }
+    ],
+    "difficulty": "Beginner",
+    "xpReward": 100
+  },
+  {
+    "id": "task_2",
+    "title": "High-Pressure Pressing",
+    "description": "Learn how to effectively press the opponent in their own half to force turnovers.",
+    "steps": [
+      {
+        "id": "s2_1",
+        "instruction": "Coordinate the front three to cut off passing lanes.",
+        "image": "person.3.sequence.fill"
+      },
+      {
+        "id": "s2_2",
+        "instruction": "Close down the goalkeeper and central defenders quickly.",
+        "image": "bolt.horizontal.circle.fill"
+      },
+      {
+        "id": "s2_3",
+        "instruction": "Force the opponent into making a hasty, inaccurate pass.",
+        "image": "exclamationmark.triangle.fill"
+      },
+      {
+        "id": "s2_4",
+        "instruction": "Intercept the ball and launch an immediate counter.",
+        "image": "lightningbolt.fill"
+      }
+    ],
+    "difficulty": "Intermediate",
+    "xpReward": 150
+  },
+  {
+    "id": "task_3",
+    "title": "The Art of Counter-Attack",
+    "description": "Exploit transitions from defense to attack with lightning speed and precision.",
+    "steps": [
+      {
+        "id": "s3_1",
+        "instruction": "Absorb the opponent's attack with a compact defensive block.",
+        "image": "lock.fill"
+      },
+      {
+        "id": "s3_2",
+        "instruction": "Regain possession and quickly find the target man.",
+        "image": "arrow.up.right.circle.fill"
+      },
+      {
+        "id": "s3_3",
+        "instruction": "Use overlapping runs to create numerical advantages.",
+        "image": "arrow.forward"
+      },
+      {
+        "id": "s3_4",
+        "instruction": "Finish clinicaly with a low cross or direct shot.",
+        "image": "figure.kick"
+      }
+    ],
+    "difficulty": "Pro",
+    "xpReward": 250
+  },
+  {
+    "id": "task_4",
+    "title": "Midfield Dominance",
+    "description": "Control the tempo of the game through superior midfield positioning and passing.",
+    "steps": [
+      {
+        "id": "s4_1",
+        "instruction": "Occupy the central zones to limit opponent distribution.",
+        "image": "circle.grid.3x3.fill"
+      },
+      {
+        "id": "s4_2",
+        "instruction": "Execute quick triangular passes to bypass pressure.",
+        "image": "arrow.triangle.pull"
+      },
+      {
+        "id": "s4_3",
+        "instruction": "Find the Creative Midfielder in the 'Pocket' of space.",
+        "image": "sparkles"
+      },
+      {
+        "id": "s4_4",
+        "instruction": "Switch the play to the wide areas to stretch the defense.",
+        "image": "arrow.left.and.right.circle.fill"
+      }
+    ],
+    "difficulty": "Advanced",
+    "xpReward": 200
+  },
+  {
+    "id": "task_5",
+    "title": "Set Piece Specialist",
+    "description": "Maximize scoring opportunities from corners and free kicks with strategic movement.",
+    "steps": [
+      {
+        "id": "s5_1",
+        "instruction": "Position the tallest players for a near-post flick-on.",
+        "image": "arrow.up.to.line.circle.fill"
+      },
+      {
+        "id": "s5_2",
+        "instruction": "Create confusion with decoy runs through the box.",
+        "image": "wind"
+      },
+      {
+        "id": "s5_3",
+        "instruction": "Deliver an accurate inswinging cross into the danger zone.",
+        "image": "arrow.uturn.down.circle.fill"
+      },
+      {
+        "id": "s5_4",
+        "instruction": "Execute a powerful header directed at the far corner.",
+        "image": "figure.soccer"
+      }
+    ],
+    "difficulty": "Intermediate",
+    "xpReward": 175
+  },
+  {
+    "id": "task_6",
+    "title": "Zonal Defending",
+    "description": "Defend as a unit, covering specific areas rather than individual opponents.",
+    "steps": [
+      {
+        "id": "s6_1",
+        "instruction": "Maintain horizontal and vertical compactness.",
+        "image": "square.grid.2x2.fill"
+      },
+      {
+        "id": "s6_2",
+        "instruction": "Shift the entire block according to the ball's position.",
+        "image": "arrow.left.and.right.square.fill"
+      },
+      {
+        "id": "s6_3",
+        "instruction": "Provide cover for the pressing teammate.",
+        "image": "shield.checkered"
+      },
+      {
+        "id": "s6_4",
+        "instruction": "Anticipate the cross and clear the ball from the danger zone.",
+        "image": "arrow.up.square.fill"
+      }
+    ],
+    "difficulty": "Beginner",
+    "xpReward": 120
+  },
+  {
+    "id": "task_7",
+    "title": "The False Nine Role",
+    "description": "Learn to play with a deep-lying forward who creates space for wingers to cut inside.",
+    "steps": [
+      {
+        "id": "s7_1",
+        "instruction": "Drop deep into the midfield to pull center-backs out of position.",
+        "image": "arrow.turn.down.left"
+      },
+      {
+        "id": "s7_2",
+        "instruction": "Receive the ball with back to goal and lay it off.",
+        "image": "arrow.triangle.swapping"
+      },
+      {
+        "id": "s7_3",
+        "instruction": "Watch for wingers making diagonal runs into the vacant space.",
+        "image": "arrow.up.right.and.arrow.down.left.rectangle"
+      },
+      {
+        "id": "s7_4",
+        "instruction": "Play a through ball to release the sprinting winger.",
+        "image": "paperplane.fill"
+      }
+    ],
+    "difficulty": "Advanced",
+    "xpReward": 225
+  },
+  {
+    "id": "task_8",
+    "title": "Goalkeeper Distribution",
+    "description": "Modern goalkeepers are the first line of attack. Master quick distribution.",
+    "steps": [
+      {
+        "id": "s8_1",
+        "instruction": "Immediately look for wingers after making a save.",
+        "image": "eye.fill"
+      },
+      {
+        "id": "s8_2",
+        "instruction": "Determine if a long throw or short pass is better.",
+        "image": "hand.raised.fill"
+      },
+      {
+        "id": "s8_3",
+        "instruction": "Execute an accurate side-volley to bypass the midfield press.",
+        "image": "figure.kick"
+      },
+      {
+        "id": "s8_4",
+        "instruction": "Communicate with the defenders to reset the formation.",
+        "image": "megaphone.fill"
+      }
+    ],
+    "difficulty": "Intermediate",
+    "xpReward": 160
+  }
+]

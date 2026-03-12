@@ -1,0 +1,112 @@
+{
+  "identifier" : "E2B7B340",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "011B8618",
+      "localizations" : [
+        {
+          "description" : "Unlock the Golden Tactics laboratory theme.",
+          "displayName" : "Golden Tactics",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.pmmaster.goldentactics",
+      "referenceName" : "Golden Tactics",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "C3D2BC2E",
+      "localizations" : [
+        {
+          "description" : "Unlock the Dark Coach Room laboratory theme.",
+          "displayName" : "Dark Coach Room",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.pmmaster.darkcoachroom",
+      "referenceName" : "Dark Coach Room",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "D4E5F6G7",
+      "localizations" : [
+        {
+          "description" : "Unlock the Elite Training laboratory theme.",
+          "displayName" : "Elite Training",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.pmmaster.elitetraining",
+      "referenceName" : "Elite Training",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

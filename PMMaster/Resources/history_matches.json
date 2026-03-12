@@ -1,0 +1,37 @@
+[
+  {
+    "id": "hist_1",
+    "teams": "Manchester City vs Barcelona",
+    "score": "0 - 1",
+    "analysisText": "A classic tactical battle between two masters of possession. Barcelona's midfield used quick rotations to bypass City's high press. The breakthrough came from a Messi-led counter-attack after a City corner. City struggled to convert several chances, as Ter Stegen's sweeping role neutralized the threat of through balls. A lesson in defensive discipline and clinical finishing.",
+    "keyMomentImage": "stadium_field_day"
+  },
+  {
+    "id": "hist_2",
+    "teams": "Bayern Munich vs Manchester City",
+    "score": "4 - 1",
+    "analysisText": "Bayern's physical superiority in the midfield dominated the game. They used high-pressing 'triggers' to catch City's defenders in possession. Gnabry's pace on the wings exploited the space behind City's overlapping fullbacks. City's lone striker was often isolated between Bayern's center-backs. A comprehensive display of transition-based football.",
+    "keyMomentImage": "stadium_field_day"
+  },
+  {
+    "id": "hist_3",
+    "teams": "Liverpool vs Arsenal",
+    "score": "2 - 2",
+    "analysisText": "A high-octane encounter at Anfield. Liverpool's relentless pressing in the first half put Arsenal on the back foot, but Arsenal's resilience showed in the second half. Saka's individual brilliance on the flank provided the spark for the comeback. Both teams' commitment to attack left gaps at the back, making for a thrilling end-to-end match. Tactical fouls were key in stopping transitions.",
+    "keyMomentImage": "stadium_field_day"
+  },
+  {
+    "id": "hist_4",
+    "teams": "Bayern Munich vs Arsenal",
+    "score": "0 - 0",
+    "analysisText": "A tactical stalemate where both teams canceled each other out. Arsenal's low block was exceptionally organized, leaving no space for Bayern's creative players. Bayern's patient buildup struggled to find a way through the compact rows of the Gunners. A masterclass in organizational defending and the importance of positional discipline over attacking flair.",
+    "keyMomentImage": "stadium_field_day"
+  },
+  {
+    "id": "hist_5",
+    "teams": "Barcelona vs Liverpool",
+    "score": "3 - 2",
+    "analysisText": "An emotional roller-coaster at the Camp Nou. Barcelona's creative sparks flew in the first half, but Liverpool's intensity never waned. The match was decided by a piece of brilliance from a set-piece. Both teams demonstrated the importance of 'second balls' in the midfield. A key takeaway is the impact of crowd energy on home-team momentum and pressing intensity.",
+    "keyMomentImage": "stadium_field_day"
+  }
+]

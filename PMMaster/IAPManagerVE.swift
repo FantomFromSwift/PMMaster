@@ -1,11 +1,3 @@
-//
-//  IAPManagerVE.swift
-//  PMMaster
-//
-//  Created by Иван Непорадный on 10.03.2026.
-//
-
-
 import Foundation
 import StoreKit
 import Observation
@@ -29,9 +21,9 @@ final class IAPManagerVE: NSObject {
     private(set) var purchasedProductIds: Set<String> = []
 
     private let productIds: Set<String> = [
-        "desertGold",
-        "royalStable",
-        "midnightTrack"
+        "com.pmmaster.goldentactics",
+        "com.pmmaster.darkcoachroom",
+        "com.pmmaster.elitetraining"
     ]
 
     private override init() {

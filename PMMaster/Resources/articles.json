@@ -1,0 +1,56 @@
+[
+  {
+    "id": "art_1",
+    "title": "The Art of the High Press",
+    "content": "The high press is one of the most effective ways to force an opponent into errors. It starts with the strikers putting pressure on the center-backs. The goal is to 'trap' the ball carrier near the touchline. Modern teams like Liverpool and Manchester City have mastered this by using specific 'pressing triggers'—moments when the whole team moves as one to swarm the ball. This requires immense physical fitness and tactical awareness from every player on the pitch.",
+    "category": "Tactical Mastery",
+    "readTime": "5 min read",
+    "author": "Coach Jose",
+    "coverImage": "high_press"
+  },
+  {
+    "id": "art_2",
+    "title": "Positional Play (Juego de Posicion)",
+    "content": "Positional play is a philosophy where the pitch is divided into zones, and players are expected to occupy specific spaces relative to the ball and their teammates. The objective is to create numerical superiorities (overloads) in key areas. If a teammate moves into your zone, you must move out of it to maintain balance. This structural discipline allows teams to dominate possession and control the rhythm of the game.",
+    "category": "Possession Philosophy",
+    "readTime": "8 min read",
+    "author": "Coach Guardiola",
+    "coverImage": "positional_play"
+  },
+  {
+    "id": "art_3",
+    "title": "The Role of the Modern Inverted Fullback",
+    "content": "Traditional fullbacks stayed on the wings. Modern fullbacks, however, often 'tuck in' to the midfield when their team is in possession. This creates an extra passing option in the center and provides better protection against counter-attacks. By moving inside, they also free up the wingers to stay wider and take on defenders 1v1. Players like Trent Alexander-Arnold and Joao Cancelo have redefined this position entirely.",
+    "category": "Formation Evolution",
+    "readTime": "6 min read",
+    "author": "Coach Mikel",
+    "coverImage": "inverted_fullback"
+  },
+  {
+    "id": "art_4",
+    "title": "Breaking Down a Low Block",
+    "content": "When an opponent sits deep with 10 players behind the ball, patience is key. To break them down, you need to use the full width of the pitch. Rapid switches of play from one side to the other can pull the defensive lines apart. Look for 'third-man runs'—where a player makes a run while two other players are passing the ball. This creates a moment of chaos that even the most organized defense can struggle to handle.",
+    "category": "Attacking Patterns",
+    "readTime": "7 min read",
+    "author": "Coach Carlo",
+    "coverImage": "low_block"
+  },
+  {
+    "id": "art_5",
+    "title": "The Importance of Rest Defense",
+    "content": "Rest defense refers to the positioning of your players while you are attacking. If you commit too many players forward without a plan, you are extremely vulnerable to long balls. Your remaining defenders and holding midfielders must stay compact and ready to intercept clearances. A strong rest defense allows your team to sustain pressure and keep the ball in the opponent's half for longer periods.",
+    "category": "Defensive Strategies",
+    "readTime": "6 min read",
+    "author": "Coach Jose",
+    "coverImage": "rest_defense"
+  },
+  {
+    "id": "art_6",
+    "title": "Transition: The Fourth Phase",
+    "content": "Many coaches divide football into three phases: defense, buildup, and attack. However, modern tacticians focus heavily on the 'transition'—the few seconds after possession is won or lost. This is when the game is most disorganized. Training your team to react instantly (either by counter-pressing or dropping back) can be the difference between winning and losing in top-level football.",
+    "category": "Tactical Mastery",
+    "readTime": "5 min read",
+    "author": "Coach Alex",
+    "coverImage": "art1"
+  }
+]
