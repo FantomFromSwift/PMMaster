@@ -43,7 +43,7 @@ struct AttackBuilderView_PM: View {
                     ZStack {
                         
                         RoundedRectangle(cornerRadius: 15)
-                            .fill(Color(red: 0.1, green: 0.4, blue: 0.2)) // Grass green
+                            .fill(Color(red: 0.1, green: 0.4, blue: 0.2))
                             .overlay(RoundedRectangle(cornerRadius: 15).stroke(Color.white.opacity(0.5), lineWidth: 2))
                         
                         

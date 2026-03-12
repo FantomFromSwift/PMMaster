@@ -3,9 +3,13 @@ import SwiftData
 
 @main
 struct PMMasterApp: App {
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate: AppDelegate
+    
     var body: some Scene {
         WindowGroup {
-            RootView_PM()
+            RootViewMC()
+                .environmentObject(ViewModelCR())
+                .environmentObject(LoaderViewModel())
                 .preferredColorScheme(.dark)
         }
     }
